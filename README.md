@@ -1,12 +1,17 @@
 NY Most Viewed
 -
 
-Get an api key from [here](https://developer.nytimes.com/signup) and add it in strings.xml.
-
 ### Description
 
 This application lists the most viewed articles from all the section.
 
+### Set up
+
+Get an api key from [here](https://developer.nytimes.com/signup) and add it in strings.xml.
+
+### Build and Run
+
+To build and run your app, select Run > Run in the menu bar. If it's the first time running the app, Android Studio asks you to select a deployment target. Select a device to install and run your app.
 
 ##### Run tests
 
