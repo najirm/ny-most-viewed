@@ -84,10 +84,5 @@ public class MostViewedArticleAdapter extends RecyclerView.Adapter<MostViewedArt
             tvAuthor = view.findViewById(R.id.tvAuthor);
             tvDate = view.findViewById(R.id.tvDate);
         }
-
-        @Override
-        public String toString() {
-            return super.toString() + " '" + tvDate.getText() + "'";
-        }
     }
 }

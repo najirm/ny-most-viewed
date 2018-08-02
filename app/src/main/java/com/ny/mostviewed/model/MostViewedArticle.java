@@ -18,13 +18,6 @@ public class MostViewedArticle {
     @SerializedName("media")
     private MediaList media;
 
-//    public MostViewedArticle(String url, String title, String author, String publishedDate) {
-//        this.url = url;
-//        this.title = title;
-//        this.author = author;
-//        this.publishedDate = publishedDate;
-//    }
-
     public String getUrl() {
         return url;
     }
